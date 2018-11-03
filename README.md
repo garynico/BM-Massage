@@ -12,11 +12,10 @@ users:
 - email VARCHAR(100)
 - password VARCHAR(100)
 
-owner:
+owner (add values to owner table -> username: owner and password: owner):
 - id INT(11) PRIMARY KEY and AUTO_INCREMENT
 - username VARCHAR(100)
 - password VARCHAR(100)
-add to owner table -> username: owner and password: owner
 
 COMPONENT LIST: 
 1. login.php -> login page with username and password, you can login as the owner (username: owner & password: owner) or member. If you haven't made an account yet, you can press the register button          
