@@ -6,16 +6,16 @@ BM-Massage is a web based application for the owner to open and control the mass
 Make a 'register' database in phpMyAdmin and create two table : 'users', 'owner'  (without the ' ')
 
 users:
-id INT(11) PRIMARY KEY and AUTO_INCREMENT
-username VARCHAR(100)
-gender VARCHAR(100)
-email VARCHAR(100)
-password VARCHAR(100)
+- id INT(11) PRIMARY KEY and AUTO_INCREMENT
+- username VARCHAR(100)
+- gender VARCHAR(100)
+- email VARCHAR(100)
+- password VARCHAR(100)
 
 owner:
-id INT(11) PRIMARY KEY and AUTO_INCREMENT
-username VARCHAR(100)
-password VARCHAR(100)
+- id INT(11) PRIMARY KEY and AUTO_INCREMENT
+- username VARCHAR(100)
+- password VARCHAR(100)
 add to owner table -> username: owner and password: owner
 
 COMPONENT LIST: 
