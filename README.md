@@ -1,5 +1,5 @@
 # BM-Massage
-BM-Massage is a web based application for the owner to open and control the massage business. People can also register and login to become the member.
+BM-Massage is a web based application for the owner to open and control the massage business. People can also register and login to become a member.
 
 ### Project Structure
 
