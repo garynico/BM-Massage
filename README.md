@@ -26,7 +26,7 @@ COMPONENT LIST:
 6. errors.php
 6. style.css
 
-### Prerequisities
+### Built With
 
 1. [XAMPP](https://www.apachefriends.org/download.html)
 2. PHP Version 5.6.38
