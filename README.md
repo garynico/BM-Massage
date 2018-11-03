@@ -25,6 +25,7 @@ COMPONENT LIST:
 5. server.php -> connecting web page to phpMyAdmin database
 6. errors.php
 6. style.css
+7. register.sql -> database
 
 ### Built With
 
